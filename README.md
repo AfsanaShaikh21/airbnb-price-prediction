@@ -28,4 +28,4 @@ It demonstrates data cleaning, visualization, and regression modeling using Pyth
 - Hyperparameter tuning
 
 ## 📎 Dataset Link
-[Airbnb Price Prediction Dataset (Kaggle)](https://www.kaggle.com/datasets/stevezhenghp/airbnb-price-prediction)
+[Airbnb Price Prediction Dataset (Kaggle)](https://www.kaggle.com/datasets/afsanashaikh1753/airbnb-price-listing)
